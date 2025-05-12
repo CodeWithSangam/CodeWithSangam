@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodeWithSangam
+- 👋 Hi, I’m Sangam
 - 👀 I’m interested in ...Python development, AI, ML, DBMS, SQL, Data Science
 - 🌱 I’m currently learning ...Python, SQL etc.
 - 💞️ I’m looking to collaborate on ...
